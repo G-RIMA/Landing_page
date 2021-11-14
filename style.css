@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    background: #1f2937;
+    height: auto;
+    width: auto;
+}
+
+.item {
+    background-color: aliceblue;
+    border: 4px darkblue;
+    width: auto;
+    flex-direction: column;
+}
